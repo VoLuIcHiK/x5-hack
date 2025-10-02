@@ -25,5 +25,5 @@
 
 
 ## Ссылки на доп материалы
-- [презентаиция и веса модели] (https://drive.google.com/drive/u/1/folders/1bCL7ktzsG0Pd97rc2cHgVUvM7J35LOKh)
-- [сервер] (http://185.31.165.109:8000)
+- [презентаиция и веса модели](https://drive.google.com/drive/u/1/folders/1bCL7ktzsG0Pd97rc2cHgVUvM7J35LOKh)
+- [сервер](http://185.31.165.109:8000)
