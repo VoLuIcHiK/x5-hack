@@ -122,7 +122,7 @@ if __name__ == "__main__":
     # Максимальная производительность для single worker deployment
     uvicorn.run(
         "main_final:app",
-        host="185.31.165.109",
+        host="0.0.0.0",
         port=int(os.environ.get("PORT", 8000)),
         workers=1,  # Single worker для хакатона
         loop="asyncio",
